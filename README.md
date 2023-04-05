@@ -13,4 +13,4 @@
 </p>
 
 ### ▶︎ Follow me!
-**[Twitter](https://twitter.com/wadeen)** | **[My blog](https://wadeen.net)** | **[Zenn](https://zenn.dev/wadeen)**
+**[Twitter](https://twitter.com/wadeen_net)** | **[My blog](https://wadeen.net)** | **[Zenn](https://zenn.dev/wadeen)**
