@@ -1,7 +1,6 @@
 ### ▶︎ Hi, I'm wadeen, a frontend engineer 🙌
 <p>🔭 I’m currently working on React, Next.js, TypeScript.</p>
 <p>🌱 I'm currently learning Supabase, AWS and Nuxt.js.</p>
-<p>🤔 I'm interested in Deno and PlanetScale...</p>
 <hr />
 
 ### ▶︎ Status
