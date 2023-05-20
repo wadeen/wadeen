@@ -4,7 +4,7 @@
 <hr />
 
 ### ▶︎ Status
-[![trophy](https://github-profile-trophy.vercel.app/?username=wadeen&margin-w=5)](https://github.com/wadeen/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=wadeen&row=1&margin-w=6)](https://github.com/wadeen/github-profile-trophy)
 
 <p align="left"> 
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadeen&layout=compact&show_icons=true" />
